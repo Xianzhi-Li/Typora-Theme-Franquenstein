@@ -8,3 +8,5 @@
 ![](./assets/table.gif) 
 # Quote
 ![](./assets/quote.png)
+# Math block 
+![](./assets/math.gif)
