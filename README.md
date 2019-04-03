@@ -1,7 +1,7 @@
 # Headers 
 ![](./assets/heading.png)
 # Paragraph 
-![](./assets/paragraph.jpg)
+![](./assets/paragraph.)
 # Coding block 
 ![](./assets/coding.jpg)
 # Table 
