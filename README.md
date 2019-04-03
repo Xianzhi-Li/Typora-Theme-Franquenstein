@@ -5,6 +5,6 @@
 # Coding block 
 ![](./assets/coding.jpg)
 # Table 
-![](./assets/table.png) 
+![](./assets/table.gif) 
 # Quote
 ![](./assets/quote.png)
